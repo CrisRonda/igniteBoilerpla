@@ -20,6 +20,6 @@ Puede generar dos pantallas con los siguientes comandos:
  1) `git clone ...`
  2) `yarn install` o `npm install`
  3) `cd ..`
- 4) `ignite new myProyect -b ./____`
+ 4) `ignite new myProyect -b ./igniteBoilerplate`
  5) `cd myProyect/`
  6) Enjoy it!
