@@ -1,0 +1,15 @@
+import React from 'react';
+import {StatusBar} from 'react-native';
+import RootNavigation from './App/routes/index';
+import {NavigationContainer} from '@react-navigation/native';
+
+function App() {
+  return (
+    <NavigationContainer>
+      <StatusBar translucent={true} backgroundColor="transparent" />
+      <RootNavigation />
+    </NavigationContainer>
+  );
+}
+
+export default App;
