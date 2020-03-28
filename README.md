@@ -1,4 +1,4 @@
-# Mi primer boilerplate con Ignite
+# Mi primer boilerplate con Ignite & React Native
 
 Este es una prueba de Ignite para generar boilerplates customizados 
 
